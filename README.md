@@ -198,7 +198,7 @@ Release
 
 ## Exercise 2: Merges and conflicts
 
-In this section, we will see how git handles changes to a repository that are not made locally. These features aloow multiple people to collaborate on the same project simultaeously.  
+In this section, we will see how git handles changes to a repository that are not made locally. These features allow multiple people to collaborate on the same project simultaeously.  
 
 1. Edit this Readme on Github.
 
